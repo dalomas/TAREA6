@@ -306,7 +306,7 @@ Los capacitores de aluminio y los capacitores de tantalio, la diferencia que pos
 ![image](https://user-images.githubusercontent.com/116813369/211180943-e90b0990-5897-4e65-81a8-6d73de8892e2.png)
 ![image](https://user-images.githubusercontent.com/116813369/211180957-62006219-c257-47bf-9ca7-45a4c90e2be3.png)
 
-41. (a) El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor. (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
+41. El capacitor de la figura 12-79 está descargado cuando el interruptor se pone en la posición 1. El interruptor permanece en esta posición durante 10 ms y luego se cambia a la posición 2, donde se queda por tiempo indefinido. Trace la forma de onda completa del voltaje presente en el capacitor. (b) Si el interruptor se pone otra vez en la posición 1 después de 5 ms en la posición 2, y luego se deja en la posición 1, ¿cómo sería la forma de onda?
 
 * a)
 
